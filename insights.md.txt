@@ -1,0 +1,124 @@
+# Key Insights & Strategic Recommendations
+
+## 1. Road Transportation Is a Key Delay Driver
+
+**Insight:**
+
+Road shipments represent a significant share of overall shipment volume and record the highest delay rate among transportation modes. This indicates that road-based deliveries are a key area for operational improvement, with opportunities to optimize routing, carrier performance, and delivery scheduling.
+
+**Business Impact:**
+- Higher delay exposure for road shipments
+- Potential increase in customer complaints and support requests
+- Opportunity to improve transportation reliability
+
+**Recommendation:**
+
+Prioritize route optimization, carrier performance monitoring, and proactive scheduling for road shipments, particularly for high-importance products.
+
+---
+
+## 2. Delivery Delays Increase Customer Support Demand
+
+**Insight:**
+
+Delayed shipments generate an average of **4.15 customer-care calls per shipment**, compared with **3.99 calls** for on-time shipments. This represents approximately **4.0% higher support demand** for delayed shipments.
+
+**Business Impact:**
+- Delayed deliveries create additional customer-service workload
+- Higher support interactions increase operational effort
+- Reducing delivery delays can help lower avoidable support demand
+
+**Recommendation:**
+
+Implement proactive customer notifications and delay alerts to identify and communicate potential delivery issues before customers need to contact support.
+
+---
+
+## 3. Discount Level Has Limited Impact on Customer Rating
+
+**Insight:**
+
+Customer ratings remain relatively stable across discount levels:
+
+| Discount Level | Average Customer Rating |
+|---|---:|
+| Low (1–2%) | 3.02 |
+| Medium (3–5%) | 2.96 |
+| High (6–10%) | 2.99 |
+
+The maximum variation is only **0.06 rating points**, suggesting that discount level alone has limited impact on customer satisfaction.
+
+**Business Impact:**
+- Increasing discounts does not appear to significantly improve customer ratings
+- Customer satisfaction may depend more strongly on other factors such as delivery experience and service quality
+- Excessive discounting may not provide sufficient customer-experience benefits
+
+**Recommendation:**
+
+Use a data-driven discount strategy and evaluate promotional decisions alongside delivery performance and customer satisfaction rather than relying on discounts alone.
+
+---
+
+## 4. Warehouse Performance Varies Across Locations
+
+**Insight:**
+
+Delivery performance varies across warehouse locations, indicating that warehouse-level processes may contribute to differences in shipment delays.
+
+**Business Impact:**
+- Underperforming warehouses may contribute disproportionately to overall delays
+- Differences in processing, handling, staffing, or dispatch efficiency may affect delivery performance
+- Warehouse-level analysis can identify specific operational bottlenecks
+
+**Recommendation:**
+
+Prioritize the highest-delay warehouse for root-cause analysis. Review processing time, shipment volume, staffing, inventory handling, and dispatch efficiency to identify corrective actions.
+
+---
+
+## 5. High-Priority Shipments Require Proactive Delivery Management
+
+**Insight:**
+
+High-importance shipments require greater delivery reliability because delays can have a larger operational and customer impact. The analysis highlights the need for priority-based delivery management.
+
+**Business Impact:**
+- Delays in critical shipments can have greater consequences
+- High-priority orders require better monitoring and faster intervention
+- Prioritization can help reduce the risk associated with critical deliveries
+
+**Recommendation:**
+
+Prioritize high-importance shipments through reliable transportation modes, proactive monitoring, and improved dispatch planning. Introduce early-warning alerts for high-risk shipments to enable timely intervention.
+
+---
+
+# Strategic Recommendations
+
+## 1. Optimize Transportation
+
+Prioritize faster and more reliable transportation modes for high-importance shipments, especially where specific modes demonstrate higher delay rates.
+
+## 2. Improve Warehouse Operations
+
+Conduct a performance audit of the highest-delay warehouse and identify operational bottlenecks in processing, handling, and dispatch.
+
+## 3. Optimize Discount Strategy
+
+Adopt data-driven discount thresholds and continuously monitor their relationship with customer satisfaction and delivery performance.
+
+## 4. Reduce Customer Support Workload
+
+Implement proactive notifications and delay alerts to reduce avoidable customer-care interactions caused by delayed shipments.
+
+## 5. Prioritize High-Importance Shipments
+
+Use shipment importance and historical delay patterns to prioritize critical shipments for reliable transportation and proactive monitoring.
+
+---
+
+# Executive Takeaway
+
+Delivery performance is influenced by transportation reliability, warehouse operations, and customer-service demand. The analysis indicates that reducing shipment delays should remain the primary operational objective, supported by targeted transportation optimization, warehouse-level intervention, proactive customer communication, and data-driven promotional strategies.
+
+By focusing on these areas, the organization can improve on-time delivery performance, reduce operational support workload, and strengthen the overall customer experience.
