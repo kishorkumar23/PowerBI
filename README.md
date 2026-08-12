@@ -18,7 +18,7 @@ This dashboard analyzes **10,999 real shipment records** to answer three critica
 | Page | Screenshot |
 |------|-----------|
 | Executive Summary | ![Page 1](Screenshots/Page1_overview.png) |
-| Delivery Deep Dive | ![Page 2](Screenshots/Page2_deep dive.png) |
+| Delivery Deep Dive | ![Page 2](Screenshots/Page2_deepdive.png) |
 | Warehouse Scorecard | ![Page 3](Screenshots/Page3_scorecard.png) |
 | Cost & Customer Impact | ![Page 4](Screenshots/Page4_costimpact.png) |
 | Insights & Recommendations | ![Page 5](Screenshots/Page5_keyinsights.png) |
@@ -181,19 +181,6 @@ supply-chain-dashboard/
 
 5. Explore all 5 pages using the navigation bar
 ```
-
----
-
-## 💡 How to Use the What-If Simulator
-
-1. Go to **Page 4 — Cost & Customer Impact**
-2. Find the **"What-If Simulator"** section (bottom right)
-3. Move the **"Set Target On-Time Delivery %"** slider
-4. Watch the **Gap to Target** card:
-   - 🟢 **Green** = current performance meets your target
-   - 🔴 **Red** = current performance is below your target
-5. Use the **Warehouse** slicer to filter to a specific warehouse
-6. The **Revenue at Risk** card updates to show that warehouse's delayed order value
 
 ---
 
