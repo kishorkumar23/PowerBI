@@ -18,10 +18,10 @@ This dashboard analyzes **10,999 real shipment records** to answer three critica
 | Page | Screenshot |
 |------|-----------|
 | Executive Summary | ![Page 1](Screenshots/Page1_overview.png) |
-| Delivery Deep Dive | ![Page 2](Screenshots/Page2_deepdive.png) |
+| Delivery Deep Dive | ![Page 2](Screenshots/Page2_deep dive.png) |
 | Warehouse Scorecard | ![Page 3](Screenshots/Page3_scorecard.png) |
 | Cost & Customer Impact | ![Page 4](Screenshots/Page4_costimpact.png) |
-| Insights & Recommendations | ![Page 5](Screenshots/Page5_insights.png) |
+| Insights & Recommendations | ![Page 5](Screenshots/Page5_keyinsights.png) |
 
 
 ---
